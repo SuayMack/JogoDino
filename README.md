@@ -11,6 +11,6 @@ Clone do Jogo Dinossaro sem internet
 * CSS
 * Javascript
 
-## Telas do projeto:
+## Tela do projeto:
 
 ![paginas_web](https://github.com/SuayMack/JogoDino/blob/main/resources/img/imgGit.png) 
